@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                 android:layout_width="match_parent"
+                 android:layout_height="match_parent"
+                 xmlns:app="http://schemas.android.com/apk/res-auto"
+                 android:background="@color/colorBlue">
+
+
+        <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_gravity="center">
+
+            <ImageView
+                    android:id="@+id/shark_feed_logo_image_view"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="64dp"
+                    android:paddingRight="64dp"
+                    android:layout_margin="8dp"
+                    app:srcCompat="@drawable/shark_feed_logo"/>
+
+            <ImageView
+                    android:id="@+id/shark_feed_text_image_view"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="16dp"
+                    android:layout_gravity="center"
+                    app:srcCompat="@drawable/shark_feed"/>
+        </LinearLayout>
+
+</FrameLayout>

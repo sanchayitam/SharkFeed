@@ -1,0 +1,227 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/sanchayita/Desktop/AndroidStudioProjects/SharkFeedApp/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /home/sanchayita/Desktop/AndroidStudioProjects/SharkFeedApp/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /home/sanchayita/Desktop/AndroidStudioProjects/SharkFeedApp/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /home/sanchayita/Desktop/AndroidStudioProjects/SharkFeedApp/app/src/main/AndroidManifest.xml:2:1-42:12
+MERGED from [com.android.support:design:28.0.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/d8e6c53640f1d0086d9646cffa020c94/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/3a62441446525503a20ef1346540beaa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/ecec26586f6e8e5cd499fc8573574837/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/01a098ec5b2996339a648d840864968d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/4c39e4f84d06819810b93e61cef27c12/AndroidManifest.xml:2:1-14:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/rxandroid-2.1.0.aar/0be7a4a7f56b6982d8bf558db6bd6551/AndroidManifest.xml:15:1-20:12
+MERGED from [com.android.support:support-v4:28.0.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/e53cda8471b0df110982131ca84e2007/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/3f0170e2c39307120b73694be1ec78d6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/f74903f582eebaae33cb1771898bb86b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/3785a7bce802ce97069f3807289d8e17/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/1efbfa63092901eaf5d3b16cda980246/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/319768ca44a87d790302ce7b9388fa9c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/f3c49fd3e1c123591aa58070709cbc0f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/940255afbe5b548274bdcf4a253d66bd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/1aa7f46c6a5a3996eb747bbeb46b4356/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/e31eb795932c7c98d95ca475089e3d47/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/fc355dbc50979be66724d4a3fe2d9072/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/8e4efa6ab455e606fac8b031afda6e64/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/1282472e48a081d4629d342f3aebddb1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/b0dd4b88be92e85c2e18a31bcdba1f4f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/ad97be33ffec4237df89c2956ebf33e0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/2e88109177b9fa5a20aeec498abf80bf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/0983f619c8075c92e47ec618d728e80c/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/d5eadeaf687d0b61c3f99091f1a5716e/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/11a760bfe4bbee209a4a9c8f93c73839/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:exifinterface:27.1.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/c0fc21e1fb50017d98ecdacd1fe85135/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/dfb938e7364939e08126372b7ae8797c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/501a9d811a275973e71fce41f2ede626/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/066519d5e80bc0125dd93f7360e2c2c8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/a16848f0ae48e753e11c0a3d8a5dd5fc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/17100dd7facedd3bcf4e9f488eb9ccb8/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/2cc4912a1b5f4a984d027ca797372fff/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/67b717b76618b2fd1d142f696d7f0b25/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/4054ab8e9cf474e9d3c3cdde2e718bd7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/95101e643618c7b7ab3dac09200cce79/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/93afd75f0c76dd6c60ec07a2f9b10717/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/sanchayita/Desktop/AndroidStudioProjects/SharkFeedApp/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /home/sanchayita/Desktop/AndroidStudioProjects/SharkFeedApp/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /home/sanchayita/Desktop/AndroidStudioProjects/SharkFeedApp/app/src/main/AndroidManifest.xml:2:1-42:12
+	package
+		ADDED from /home/sanchayita/Desktop/AndroidStudioProjects/SharkFeedApp/app/src/main/AndroidManifest.xml:3:11-56
+		INJECTED from /home/sanchayita/Desktop/AndroidStudioProjects/SharkFeedApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sanchayita/Desktop/AndroidStudioProjects/SharkFeedApp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/sanchayita/Desktop/AndroidStudioProjects/SharkFeedApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/sanchayita/Desktop/AndroidStudioProjects/SharkFeedApp/app/src/main/AndroidManifest.xml:2:1-42:12
+		INJECTED from /home/sanchayita/Desktop/AndroidStudioProjects/SharkFeedApp/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/sanchayita/Desktop/AndroidStudioProjects/SharkFeedApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/sanchayita/Desktop/AndroidStudioProjects/SharkFeedApp/app/src/main/AndroidManifest.xml:2:1-42:12
+		INJECTED from /home/sanchayita/Desktop/AndroidStudioProjects/SharkFeedApp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/sanchayita/Desktop/AndroidStudioProjects/SharkFeedApp/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/sanchayita/Desktop/AndroidStudioProjects/SharkFeedApp/app/src/main/AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from /home/sanchayita/Desktop/AndroidStudioProjects/SharkFeedApp/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/sanchayita/Desktop/AndroidStudioProjects/SharkFeedApp/app/src/main/AndroidManifest.xml:6:5-78
+	android:name
+		ADDED from /home/sanchayita/Desktop/AndroidStudioProjects/SharkFeedApp/app/src/main/AndroidManifest.xml:6:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/sanchayita/Desktop/AndroidStudioProjects/SharkFeedApp/app/src/main/AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from /home/sanchayita/Desktop/AndroidStudioProjects/SharkFeedApp/app/src/main/AndroidManifest.xml:7:22-78
+application
+ADDED from /home/sanchayita/Desktop/AndroidStudioProjects/SharkFeedApp/app/src/main/AndroidManifest.xml:9:5-40:19
+MERGED from [com.android.support:design:28.0.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/d8e6c53640f1d0086d9646cffa020c94/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/d8e6c53640f1d0086d9646cffa020c94/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/ecec26586f6e8e5cd499fc8573574837/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/ecec26586f6e8e5cd499fc8573574837/AndroidManifest.xml:9:5-20
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/4c39e4f84d06819810b93e61cef27c12/AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/4c39e4f84d06819810b93e61cef27c12/AndroidManifest.xml:7:5-12:19
+MERGED from [com.android.support:support-compat:28.0.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/0983f619c8075c92e47ec618d728e80c/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/0983f619c8075c92e47ec618d728e80c/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/d5eadeaf687d0b61c3f99091f1a5716e/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/d5eadeaf687d0b61c3f99091f1a5716e/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/0983f619c8075c92e47ec618d728e80c/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/sanchayita/Desktop/AndroidStudioProjects/SharkFeedApp/app/src/main/AndroidManifest.xml:14:13-39
+	android:label
+		ADDED from /home/sanchayita/Desktop/AndroidStudioProjects/SharkFeedApp/app/src/main/AndroidManifest.xml:12:13-45
+	android:roundIcon
+		ADDED from /home/sanchayita/Desktop/AndroidStudioProjects/SharkFeedApp/app/src/main/AndroidManifest.xml:13:13-58
+	android:icon
+		ADDED from /home/sanchayita/Desktop/AndroidStudioProjects/SharkFeedApp/app/src/main/AndroidManifest.xml:11:13-47
+	android:allowBackup
+		ADDED from /home/sanchayita/Desktop/AndroidStudioProjects/SharkFeedApp/app/src/main/AndroidManifest.xml:10:13-39
+	android:theme
+		ADDED from /home/sanchayita/Desktop/AndroidStudioProjects/SharkFeedApp/app/src/main/AndroidManifest.xml:15:13-55
+activity#com.example.sanchayita.sharkfeedapp.splash.SplashScreenActivity
+ADDED from /home/sanchayita/Desktop/AndroidStudioProjects/SharkFeedApp/app/src/main/AndroidManifest.xml:17:9-25:20
+	android:configChanges
+		ADDED from /home/sanchayita/Desktop/AndroidStudioProjects/SharkFeedApp/app/src/main/AndroidManifest.xml:19:17-78
+	android:theme
+		ADDED from /home/sanchayita/Desktop/AndroidStudioProjects/SharkFeedApp/app/src/main/AndroidManifest.xml:20:17-55
+	android:name
+		ADDED from /home/sanchayita/Desktop/AndroidStudioProjects/SharkFeedApp/app/src/main/AndroidManifest.xml:18:17-60
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/sanchayita/Desktop/AndroidStudioProjects/SharkFeedApp/app/src/main/AndroidManifest.xml:21:13-24:29
+action#android.intent.action.MAIN
+ADDED from /home/sanchayita/Desktop/AndroidStudioProjects/SharkFeedApp/app/src/main/AndroidManifest.xml:22:17-68
+	android:name
+		ADDED from /home/sanchayita/Desktop/AndroidStudioProjects/SharkFeedApp/app/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/sanchayita/Desktop/AndroidStudioProjects/SharkFeedApp/app/src/main/AndroidManifest.xml:23:17-76
+	android:name
+		ADDED from /home/sanchayita/Desktop/AndroidStudioProjects/SharkFeedApp/app/src/main/AndroidManifest.xml:23:27-74
+activity#com.example.sanchayita.sharkfeedapp.main.MainActivity
+ADDED from /home/sanchayita/Desktop/AndroidStudioProjects/SharkFeedApp/app/src/main/AndroidManifest.xml:27:9-32:20
+	android:name
+		ADDED from /home/sanchayita/Desktop/AndroidStudioProjects/SharkFeedApp/app/src/main/AndroidManifest.xml:27:19-52
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.DEFAULT
+ADDED from /home/sanchayita/Desktop/AndroidStudioProjects/SharkFeedApp/app/src/main/AndroidManifest.xml:28:13-31:29
+category#android.intent.category.DEFAULT
+ADDED from /home/sanchayita/Desktop/AndroidStudioProjects/SharkFeedApp/app/src/main/AndroidManifest.xml:30:17-75
+	android:name
+		ADDED from /home/sanchayita/Desktop/AndroidStudioProjects/SharkFeedApp/app/src/main/AndroidManifest.xml:30:27-73
+activity#com.example.sanchayita.sharkfeedapp.imageViewer.ImageViewerActivity
+ADDED from /home/sanchayita/Desktop/AndroidStudioProjects/SharkFeedApp/app/src/main/AndroidManifest.xml:34:9-35:20
+	android:name
+		ADDED from /home/sanchayita/Desktop/AndroidStudioProjects/SharkFeedApp/app/src/main/AndroidManifest.xml:34:19-66
+service#com.example.sanchayita.sharkfeedapp.service.DownloadImageService
+ADDED from /home/sanchayita/Desktop/AndroidStudioProjects/SharkFeedApp/app/src/main/AndroidManifest.xml:37:9-38:19
+	android:name
+		ADDED from /home/sanchayita/Desktop/AndroidStudioProjects/SharkFeedApp/app/src/main/AndroidManifest.xml:37:18-97
+uses-sdk
+INJECTED from /home/sanchayita/Desktop/AndroidStudioProjects/SharkFeedApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/sanchayita/Desktop/AndroidStudioProjects/SharkFeedApp/app/src/main/AndroidManifest.xml
+INJECTED from /home/sanchayita/Desktop/AndroidStudioProjects/SharkFeedApp/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/d8e6c53640f1d0086d9646cffa020c94/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/d8e6c53640f1d0086d9646cffa020c94/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/3a62441446525503a20ef1346540beaa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/3a62441446525503a20ef1346540beaa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/ecec26586f6e8e5cd499fc8573574837/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/ecec26586f6e8e5cd499fc8573574837/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/01a098ec5b2996339a648d840864968d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/01a098ec5b2996339a648d840864968d/AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/4c39e4f84d06819810b93e61cef27c12/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/4c39e4f84d06819810b93e61cef27c12/AndroidManifest.xml:5:5-44
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/rxandroid-2.1.0.aar/0be7a4a7f56b6982d8bf558db6bd6551/AndroidManifest.xml:18:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/rxandroid-2.1.0.aar/0be7a4a7f56b6982d8bf558db6bd6551/AndroidManifest.xml:18:5-43
+MERGED from [com.android.support:support-v4:28.0.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/e53cda8471b0df110982131ca84e2007/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/e53cda8471b0df110982131ca84e2007/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/3f0170e2c39307120b73694be1ec78d6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/3f0170e2c39307120b73694be1ec78d6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/f74903f582eebaae33cb1771898bb86b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/f74903f582eebaae33cb1771898bb86b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/3785a7bce802ce97069f3807289d8e17/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/3785a7bce802ce97069f3807289d8e17/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/1efbfa63092901eaf5d3b16cda980246/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/1efbfa63092901eaf5d3b16cda980246/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/319768ca44a87d790302ce7b9388fa9c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/319768ca44a87d790302ce7b9388fa9c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/f3c49fd3e1c123591aa58070709cbc0f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/f3c49fd3e1c123591aa58070709cbc0f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/940255afbe5b548274bdcf4a253d66bd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/940255afbe5b548274bdcf4a253d66bd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/1aa7f46c6a5a3996eb747bbeb46b4356/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/1aa7f46c6a5a3996eb747bbeb46b4356/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/e31eb795932c7c98d95ca475089e3d47/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/e31eb795932c7c98d95ca475089e3d47/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/fc355dbc50979be66724d4a3fe2d9072/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/fc355dbc50979be66724d4a3fe2d9072/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/8e4efa6ab455e606fac8b031afda6e64/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/8e4efa6ab455e606fac8b031afda6e64/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/1282472e48a081d4629d342f3aebddb1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/1282472e48a081d4629d342f3aebddb1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/b0dd4b88be92e85c2e18a31bcdba1f4f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/b0dd4b88be92e85c2e18a31bcdba1f4f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/ad97be33ffec4237df89c2956ebf33e0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/ad97be33ffec4237df89c2956ebf33e0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/2e88109177b9fa5a20aeec498abf80bf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/2e88109177b9fa5a20aeec498abf80bf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/0983f619c8075c92e47ec618d728e80c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/0983f619c8075c92e47ec618d728e80c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/d5eadeaf687d0b61c3f99091f1a5716e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/d5eadeaf687d0b61c3f99091f1a5716e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/11a760bfe4bbee209a4a9c8f93c73839/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/11a760bfe4bbee209a4a9c8f93c73839/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/c0fc21e1fb50017d98ecdacd1fe85135/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/c0fc21e1fb50017d98ecdacd1fe85135/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/dfb938e7364939e08126372b7ae8797c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/dfb938e7364939e08126372b7ae8797c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/501a9d811a275973e71fce41f2ede626/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/501a9d811a275973e71fce41f2ede626/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/066519d5e80bc0125dd93f7360e2c2c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/066519d5e80bc0125dd93f7360e2c2c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/a16848f0ae48e753e11c0a3d8a5dd5fc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/a16848f0ae48e753e11c0a3d8a5dd5fc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/17100dd7facedd3bcf4e9f488eb9ccb8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/17100dd7facedd3bcf4e9f488eb9ccb8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/2cc4912a1b5f4a984d027ca797372fff/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/2cc4912a1b5f4a984d027ca797372fff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/67b717b76618b2fd1d142f696d7f0b25/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/67b717b76618b2fd1d142f696d7f0b25/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/4054ab8e9cf474e9d3c3cdde2e718bd7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/4054ab8e9cf474e9d3c3cdde2e718bd7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/95101e643618c7b7ab3dac09200cce79/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/95101e643618c7b7ab3dac09200cce79/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/93afd75f0c76dd6c60ec07a2f9b10717/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/93afd75f0c76dd6c60ec07a2f9b10717/AndroidManifest.xml:20:5-44
+INJECTED from /home/sanchayita/Desktop/AndroidStudioProjects/SharkFeedApp/app/src/main/AndroidManifest.xml
+INJECTED from /home/sanchayita/Desktop/AndroidStudioProjects/SharkFeedApp/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/sanchayita/Desktop/AndroidStudioProjects/SharkFeedApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/sanchayita/Desktop/AndroidStudioProjects/SharkFeedApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sanchayita/Desktop/AndroidStudioProjects/SharkFeedApp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/sanchayita/Desktop/AndroidStudioProjects/SharkFeedApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/sanchayita/Desktop/AndroidStudioProjects/SharkFeedApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sanchayita/Desktop/AndroidStudioProjects/SharkFeedApp/app/src/main/AndroidManifest.xml
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/4c39e4f84d06819810b93e61cef27c12/AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/4c39e4f84d06819810b93e61cef27c12/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/4c39e4f84d06819810b93e61cef27c12/AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] /home/sanchayita/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/4c39e4f84d06819810b93e61cef27c12/AndroidManifest.xml:9:13-64
