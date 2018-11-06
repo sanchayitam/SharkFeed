@@ -1,5 +1,5 @@
 # SharkFeed
---------------------------
+
 App displays an infinite scrolling list of shark photos using Flickr API
 
 App Features
