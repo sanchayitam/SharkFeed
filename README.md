@@ -1,7 +1,9 @@
 # SharkFeed
+--------------------------
 App displays an infinite scrolling list of shark photos using Flickr API
 
 App Features
+---------------------------
 Infinite scrolling
 
 Searching for various shark related topics
@@ -19,6 +21,7 @@ Handle network connectivity changes
 Handle device rotation
 
 Libraries Used
+----------------------
 Retrofit - API calls
 
 RxJava - Manipulate UI events and API responses
