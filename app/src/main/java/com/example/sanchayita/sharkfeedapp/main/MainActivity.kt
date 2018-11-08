@@ -158,7 +158,7 @@ internal class MainActivity : AppCompatActivity (), MainView {
     //display error message if API errors
     override fun onFlickrError(message: String) {
 
-        Toast.makeText(this,message,Toast.LENGTH_LONG)
+        Toast.makeText(this,message,Toast.LENGTH_LONG).show()
 
     }
 
