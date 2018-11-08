@@ -59,7 +59,7 @@ class ImageViewerActivity : AppCompatActivity(), ImageViewerContract.View {
 
             } catch (e: Exception) {
 
-                Toast.makeText(this, getString(R.string.url_err), Toast.LENGTH_LONG)
+                Toast.makeText(this, getString(R.string.url_err), Toast.LENGTH_LONG).show()
                 Log.e(TAG, getString(R.string.url_err))
 
             }
